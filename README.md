@@ -81,3 +81,5 @@ Although I'm new to the tech field, I have over a decade of progressive experien
 <h3>📚 Resources Used to Build This Repo</h3>
 
 - Social media favicons by <a target="_blank" href="https://icons8.com">Icons8</a>
+- Header from <a target="_blank" href="https://www.canva.com/">Canva</a>
+- <a target="_blank" href="https://github.com/HexxKing/HexxKing/blob/main/how-to.md">How to Create a GitHub Profile</a>
