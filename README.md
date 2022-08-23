@@ -57,20 +57,20 @@ Although I'm new to the tech field, I have over a decade of progressive experien
 
 <h3>✒️ Professional Competencies</h3>
 
-- Handling Ambiguity
+- **Handling Ambiguity**
   - Functions effectively on limited information
   - Finds a way forward without clear next steps
   - Works through open-ended questions while maintaining a constructive attitude in times of stress
   - Creates solid design with vague requirements
   - Changes strategies quickly when initial approach doesn't work
 
-- Project Execution
+- **Project Execution**
   - Maps out the steps of a project before taking action
   - Prioritizes (and continuously reprioritizes) tasks as a project progresses
   - Coordinate across all available resources to ensure success
   - Strong believer in project trackers, project management software, and other tools designed to organize workflow
 
-- Customer Orientation
+- **Customer Orientation**
   - Advocates for the customer at all times
   - Seeks opportunities to discover the client's needs
   - Uses detailed information about the customer to deliver high quality results and add value
