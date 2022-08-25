@@ -11,35 +11,45 @@
 
 <h3>👨🏻‍💻 Marketing Account Manager ➡️ Software Developer</h3>
 
-Hello there. I'm a software developer specializing in JavaScript for full stack applications. When I'm not coding, you can find me fly fishing on the Deschutes or out grabbing a pint at a local brewery. I love making connections in the tech community, so feel free to reach out!
+Hello there. I'm a software developer specializing in JavaScript for full stack applications. Although I'm new to the tech field, I have over a decade of progressive experience providing project management, team leadership, and client satisfaction.
+
+I am strategic and highly analytical, with a proven ability to adapt and prioritize in real time. I have a passion for both personal and professional development, and am a strong believer in emotional intelligence. When I'm not `coding`, you can find me fly fishing on the Deschutes or out grabbing a pint at a local brewery. I love making connections in the tech community, so feel free to reach out!
 
 -----------------------------------------------------
 
 <h3>💼 Professional Background</h3>
 
-Although I'm new to the tech field, I have over a decade of progressive experience providing project management, team leadership, and client satisfaction. I am strategic and highly analytical, with a proven ability to adapt and prioritize in real time. I have a passion for both personal and professional development. See below for my past roles and accomplishments!
+- **Account Manager** @ HH Global (2021 – 2022)
 
-- Account Manager at HH Global (Apr 2021 – Mar 2022)
-- Sr. Project Manager at InnerWorkings (Jul 2019 – Apr 2021)
-- Project Manager at InnerWorkings (Jun 2017 – Jul 2019)
-- Project Manager at Premier Press, Portland OR (Sep 2015 – May 2017)
-- Project Manager at Daymon Worldwide (Jul 2012 – June 2015)
+- **Sr. Project Manager** @ InnerWorkings (2019 – 2021)
+
+- **Project Manager** @ InnerWorkings (2017 – 2019)
+
+- **Project Manager** @ Premier Press (2015 – 2017)
+
+- **Project Manager** @ Daymon Worldwide (2012 – 2015)
+
+Check out my full <a href="https://docs.google.com/document/d/1tN1aCN6tWD-0LBtv0ER-xuLDCnosGzGx-UL3iWICC_o/edit?usp=sharing" target="_blank" rel="noopener noreferrer">resume</a> for details!
 
 -----------------------------------------------------
 
 <h3>🛠️ Technologies and Tools</h3>
 
-- **Languages** : JavaScript(ES6), SQL, CSS, Sass, and HTML5
-- **Libraries/Tools** : React, Git, Heroku, Node.js, Express.js, MongoDB, AWS, Redux, React-Bootstrap and Material UI
+- **Languages** : JavaScript (ES6), SQL, CSS, Sass, and HTML5
+
+- **Libraries/Tools** : React, Node.js, Express.js, MongoDB, AWS, Git, Heroku, Redux, React-Bootstrap, Material UI
+
 - **Editor** : VisualStudio Code
 
 -----------------------------------------------------
 
 <h3>✒️ Professional Competencies</h3>
 
-- Handling Ambiguity
-- Project Execution
-- Customer Orientation
+- **Handling Ambiguity**. I have the ability to push forward with very little (or contradictory) information - not allowing a lack of detailed instruction to hold up an entire project.
+
+- **Project Execution**. As a former project manager, it has become second nature for me to map out the steps of a project, prioritize (and continuously reprioritize) tasks, and coordinate across all available resources to ensure success.
+
+- **Customer Orientation**. My experience as an account manager in the marketing field taught me to ALWAYS advocate for the customer, seeking opportunities for client interaction and feedback.
 
 -----------------------------------------------------
 
