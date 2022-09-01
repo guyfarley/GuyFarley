@@ -1,4 +1,4 @@
-![Guy Farley Banner Header](./banner4.png)
+![Guy Farley Banner Header](./banner5.png)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/guyefarley/" target="_blank" rel="noopener noreferrer"><img height="38" src="./linkedin.png"></a>
