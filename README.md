@@ -1,4 +1,4 @@
-![Guy Farley Banner Header](./banner3.png)
+![Guy Farley Banner Header](./banner4.png)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/guyefarley/" target="_blank" rel="noopener noreferrer"><img height="38" src="./linkedin.png"></a>
@@ -48,5 +48,5 @@ Check out my full <a href="https://docs.google.com/document/d/1tN1aCN6tWD-0LBtv0
 <h3>📚 Resources Used to Build This Repo</h3>
 
 - Social media favicons by <a target="_blank" href="https://icons8.com">Icons8</a>
-- Header from <a target="_blank" href="https://www.canva.com/">Canva</a>
+- Header from <a target="_blank" href="https://slidesgo.com/theme/my-favorite-playlists-lo-fi-style#position-2&related-1&rs=detail-related">SlidesGo</a>
 - <a target="_blank" href="https://github.com/HexxKing/HexxKing/blob/main/how-to.md">How to Create a GitHub Profile</a> by Hexx King
