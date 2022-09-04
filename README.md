@@ -4,14 +4,14 @@
 <a href="https://www.linkedin.com/in/guyefarley/" target="_blank" rel="noopener noreferrer"><img height="38" src="./linkedin.png"></a>
 &nbsp;&nbsp;
 <a href="mailto:guy.e.farley@gmail.com" target="_blank" rel="noopener noreferrer"><img height="38" src="./gmail.png"></a></p>
-&nbsp;&nbsp;
+&nbsp;
 
-<h2 align=center>Welcome to my GitHub!👋</h3>
+<h2 align=center>Welcome to my GitHub👋</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <h3>👨🏻‍💻 Marketing Account Manager ➡️ Software Developer</h3>
 
-Hello there! I'm a software developer specializing in JavaScript for full stack applications. My professional background is in marketing, where I have over a decade of progressive experience providing project management, team leadership, and client satisfaction.
+Hello there, I'm a software developer specializing in JavaScript for full stack applications. My professional background is in marketing, where I have over a decade of progressive experience providing project management, team leadership, and client satisfaction.
 
 I am strategic and highly analytical, with a proven ability to adapt and prioritize in real time. I have a passion for both personal and professional development, and am a strong believer in emotional intelligence. When I'm not `coding`, you can find me fly fishing on the Deschutes or out grabbing a pint at a local brewery. I love making connections in the tech community, so feel free to reach out!
 
