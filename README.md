@@ -4,10 +4,9 @@
 <a href="https://www.linkedin.com/in/guyefarley/" target="_blank" rel="noopener noreferrer"><img height="38" src="./linkedin.png"></a>
 &nbsp;&nbsp;
 <a href="mailto:guy.e.farley@gmail.com" target="_blank" rel="noopener noreferrer"><img height="38" src="./gmail.png"></a></p>
-&nbsp;
 
 <h2 align=center>Welcome to my GitHub👋</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <h3>👨🏻‍💻 Marketing Account Manager ➡️ Software Developer</h3>
 
