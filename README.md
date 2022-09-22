@@ -1,6 +1,6 @@
 <!-- ![Guy Farley Banner Header](./banner8.png) -->
 
-<h3>👨🏻‍💻 Software Developer | JavaScript | React | Node.js | Express</h3>
+<h3>👨🏻‍💻 Full Stack Software Developer</h3>
 
 Software developer with exceptional communication and problem-solving skills. A collaborative, selfless team member who is client-focused and highly adaptable. Extensive background in marketing and project management, with a strong belief that good tech improves work and life.
 
@@ -45,7 +45,5 @@ Check out my full <a href="https://docs.google.com/document/d/1tN1aCN6tWD-0LBtv0
 <h3>📚 Resources Used to Build This Repo</h3>
 
 - Social media favicons by <a target="_blank" href="https://icons8.com">Icons8</a>
-
-- Header from <a target="_blank" href="https://slidesgo.com/theme/my-favorite-playlists-lo-fi-style#position-2&related-1&rs=detail-related">SlidesGo</a>
 
 - <a target="_blank" href="https://github.com/HexxKing/HexxKing/blob/main/how-to.md">How to Create a GitHub Profile</a> by Hexx King
