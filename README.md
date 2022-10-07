@@ -1,8 +1,8 @@
 <!-- ![Guy Farley Banner Header](./banner8.png) -->
 
-<h3>👨🏻‍💻 Full Stack Software Developer</h3>
+<h3>👨🏻‍💻 Full Stack Software Engineer</h3>
 
-Software developer with exceptional communication and problem-solving skills. A collaborative, selfless team member who is client-focused and highly adaptable. Extensive background in marketing and project management, with a strong belief that good tech improves work and life.
+Software engineer with exceptional communication and problem-solving skills. A collaborative, selfless team member who is client-focused and highly adaptable. Extensive background in marketing and project management, with a strong belief that good tech improves work and life.
 
 When I'm not `coding`, you can find me fly fishing on the Deschutes or out grabbing a pint at a local brewery. I love making connections in the tech community, so feel free to reach out!
 
