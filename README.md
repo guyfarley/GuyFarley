@@ -2,7 +2,7 @@
 
 <h3>👨🏻‍💻 Full Stack Software Engineer</h3>
 
-Software engineer with exceptional communication and problem-solving skills. A collaborative, selfless team member who is client-focused and highly adaptable. Extensive background in marketing and project management, with a strong belief that good tech improves work and life.
+Software engineer with exceptional communication and problem-solving skills specializing in JavaScript, React, and Node.js. A collaborative team member who is client-focused, emotionally intelligent, and passionate about writing scalable, maintainable code. Extensive background in project and account management for brand marketing, with a passion for process improvement and innovation.
 
 When I'm not `coding`, you can find me fly fishing on the Deschutes or out grabbing a pint at a local brewery. I love making connections in the tech community, so feel free to reach out!
 
@@ -10,11 +10,11 @@ When I'm not `coding`, you can find me fly fishing on the Deschutes or out grabb
 
 <h3>🛠️ Technologies and Tools</h3>
 
-- **Languages** : JavaScript, SQL, HTML5, CSS, Sass
+- **Languages** : JavaScript (ES6), TypeScript, HTML5, CSS, Sass
 
-- **Libraries/Tools** : React, Node.js, Express, Next.js, Redux, PostgreSQL, MongoDB, Mongoose, Git, GitHub, AWS (Lambda, API, and DynamoDB), React-Bootstrap, Material UI
+- **Libraries/Tools** : React, Node.js, Express, Next.js, Redux, PostgreSQL, MongoDB, Git, GitHub, AWS (Lambda, API, and DynamoDB), Material UI, Tailwind CSS, Prisma
 
-- **Skills** : Unit testing, reading/writing documentation, data structures and algorithms
+- **Skills** : Test-driven development, reading/writing documentation, data structures and algorithms
 
 -----------------------------------------------------
 
